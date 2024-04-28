@@ -20,10 +20,13 @@ For building deep learning models, if necessary.
 ### Project structure
 The project is organized as follows:
 
-data/: Directory containing the dataset of US stocks since 1950.
+### data/: 
+Directory containing the dataset of US stocks since 1950.
 
-notebooks/: Jupyter Notebooks with exploratory data analysis and model experiments.
-src/: Source code with auxiliary functions, model implementations and training and evaluation scripts.
+### notebooks/: 
+Jupyter Notebooks with exploratory data analysis and model experiments.
+### src/: 
+Source code with auxiliary functions, model implementations and training and evaluation scripts.
 
 ### Contributing
 We are open to contributions! If you have suggestions for improvements, new features or have found a bug, feel free to open an issue or send a pull request.

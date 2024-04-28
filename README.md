@@ -7,12 +7,17 @@ This repository is for the development and sharing of a project focused on forec
 
 To achieve our goal, we will use the Python programming language, widely recognized for its versatility and effectiveness in the field of data analysis and machine learning. Python offers us a wide range of specialized libraries that make it easier to manipulate data, perform statistical calculations, build machine learning models, among other crucial features for this project. Some of the libraries that will be explored include:
 
-NumPy: For mathematical operations and manipulating arrays.
-Pandas: For manipulating and analyzing tabular data.
-Matplotlib and Seaborn: For data visualization.
-Scikit-learn: For building and evaluating machine learning models.
-TensorFlow or PyTorch: For building deep learning models, if necessary.
-Project structure
+##### NumPy: 
+For mathematical operations and manipulating arrays.
+##### Pandas: 
+For manipulating and analyzing tabular data.
+##### Matplotlib and Seaborn: 
+For data visualization.
+##### Scikit-learn: 
+For building and evaluating machine learning models.
+#####TensorFlow or PyTorch:
+For building deep learning models, if necessary.
+### Project structure
 The project is organized as follows:
 
 data/: Directory containing the dataset of US stocks since 1950.
